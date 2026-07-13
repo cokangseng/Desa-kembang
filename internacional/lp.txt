@@ -15,16 +15,16 @@
     <link rel="preload" href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4" as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
-    <title>LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya</title>
+    <title>LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya</title>
     <meta name="description" content="LANDAKTOTO menghadirkan optimasi website dengan tampilan modern, akses cepat, dan navigasi yang mudah digunakan. Temukan informasi seputar Toto Macau yang tersusun rapi dalam satu platform terpercaya, memberikan pengalaman menjelajah yang nyaman melalui desktop maupun perangkat mobile.">
-  <link rel="alternate" href="https://internatcional.landaktotobro.app/"> 
-  <link rel="alternate" href="https://internatcional.landaktotobro.app/" hreflang="id">
-  <link rel="alternate" href="https://internatcional.landaktotobro.app/" hreflang="en">
-  <link rel="alternate" href="https://internatcional.landaktotobro.app/" hreflang="en">
-  <link rel="alternate" href="https://internatcional.landaktotobro.app/" hreflang="x-default">
-  <link rel="alternate" hreflang="id-ID" href="https://internatcional.landaktotobro.app/" />
-  <link rel="alternate" hreflang="en-US" href="https://internatcional.landaktotobro.app/" />
-  <link rel="alternate" hreflang="en-SG" href="https://internatcional.landaktotobro.app/" />
+  <link rel="alternate" href="https://nuczu.landaktotobro.app/"> 
+  <link rel="alternate" href="https://nuczu.landaktotobro.app/" hreflang="id">
+  <link rel="alternate" href="https://nuczu.landaktotobro.app/" hreflang="en">
+  <link rel="alternate" href="https://nuczu.landaktotobro.app/" hreflang="en">
+  <link rel="alternate" href="https://nuczu.landaktotobro.app/" hreflang="x-default">
+  <link rel="alternate" hreflang="id-ID" href="https://nuczu.landaktotobro.app/" />
+  <link rel="alternate" hreflang="en-US" href="https://nuczu.landaktotobro.app/" />
+  <link rel="alternate" hreflang="en-SG" href="https://nuczu.landaktotobro.app/" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon" href="https://desa-kembang.pages.dev/avatar/internacional.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://desa-kembang.pages.dev/avatar/internacional.png" sizes="72x72">
@@ -36,8 +36,8 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237939674fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
     <meta name="theme-color" content="#22321">
-    <link rel="canonical" href="https://seminariointernacional-cibs.far.fiocruz.br/">
-    <link rel="amphtml" href="https://internatcional.landaktotobro.app/" />
+    <link rel="canonical" href="https://nuczu.edu.ua/ukr/">
+    <link rel="amphtml" href="https://nuczu.landaktotobro.app/" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,9 +45,9 @@
     {
       /* 1. Definisi Halaman (WebPage) */
       "@type": "WebPage",
-      "@id": "https://seminariointernacional-cibs.far.fiocruz.br/#webpage",
-      "url": "https://seminariointernacional-cibs.far.fiocruz.br/",
-      "name": "LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya",
+      "@id": "https://nuczu.edu.ua/ukr/#webpage",
+      "url": "https://nuczu.edu.ua/ukr/",
+      "name": "LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya",
       "description": "LANDAKTOTO menghadirkan optimasi website dengan tampilan modern, akses cepat, dan navigasi yang mudah digunakan. Temukan informasi seputar Toto Macau yang tersusun rapi dalam satu platform terpercaya, memberikan pengalaman menjelajah yang nyaman melalui desktop maupun perangkat mobile.",
       "inLanguage": "id",
       "primaryImageOfPage": {
@@ -55,15 +55,15 @@
         "url": "https://desa-kembang.pages.dev/avatar/internacional.png" 
       },
       "about": {
-        "@id": "https://seminariointernacional-cibs.far.fiocruz.br/#organization"
+        "@id": "https://nuczu.edu.ua/ukr/#organization"
       }
     },
     {
       /* 2. Definisi Brand (Organization) */
       "@type": "Organization",
-      "@id": "https://seminariointernacional-cibs.far.fiocruz.br/#organization",
+      "@id": "https://nuczu.edu.ua/ukr/#organization",
       "name": "LANDAKTOTO",
-      "url": "https://seminariointernacional-cibs.far.fiocruz.br/",
+      "url": "https://nuczu.edu.ua/ukr/",
       "alternateName": "SITUS TERPERCAYA",
       "logo": {
         "@type": "ImageObject",
@@ -71,17 +71,17 @@
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://seminariointernacional-cibs.far.fiocruz.br/?q={search_term_string}",
+        "target": "https://nuczu.edu.ua/ukr/?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       /* 3. Definisi Produk dan Ulasan Agregat */
       "@type": "Product",
-      "@id": "https://seminariointernacional-cibs.far.fiocruz.br/#product",
+      "@id": "https://nuczu.edu.ua/ukr/#product",
       "name": "TOTO MACAU",
       "description": "LANDAKTOTO menghadirkan optimasi website dengan tampilan modern, akses cepat, dan navigasi yang mudah digunakan. Temukan informasi seputar Toto Macau yang tersusun rapi dalam satu platform terpercaya, memberikan pengalaman menjelajah yang nyaman melalui desktop maupun perangkat mobile.",
-      "url": "https://seminariointernacional-cibs.far.fiocruz.br/",
+      "url": "https://nuczu.edu.ua/ukr/",
       "image": "https://desa-kembang.pages.dev/avatar/internacional.png",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -121,11 +121,11 @@ window.dataLayer=window.dataLayer||[];
 //]]></script>
     <meta name="bingbot" content="nocache">
 
-    <meta property="og:title" content="LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
+    <meta property="og:title" content="LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
     <meta property="og:description" content="LANDAKTOTO menghadirkan optimasi website dengan tampilan modern, akses cepat, dan navigasi yang mudah digunakan. Temukan informasi seputar Toto Macau yang tersusun rapi dalam satu platform terpercaya, memberikan pengalaman menjelajah yang nyaman melalui desktop maupun perangkat mobile.">
     <meta property="og:url" content="https://desa-kembang.pages.dev/avatar/internacional.png">
     <meta property="og:image" content="https://desa-kembang.pages.dev/avatar/internacional.png">
-    <meta property="og:image:alt" content="LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
+    <meta property="og:image:alt" content="LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="LANDAKTOTO">
     <meta property="og:locale" content="id_ID">
@@ -133,10 +133,10 @@ window.dataLayer=window.dataLayer||[];
     <meta property="og:image:height" content="630">
     
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
+    <meta name="twitter:title" content="LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
     <meta name="twitter:description" content="LANDAKTOTO menghadirkan optimasi website dengan tampilan modern, akses cepat, dan navigasi yang mudah digunakan. Temukan informasi seputar Toto Macau yang tersusun rapi dalam satu platform terpercaya, memberikan pengalaman menjelajah yang nyaman melalui desktop maupun perangkat mobile.">
     <meta name="twitter:image" content="https://desa-kembang.pages.dev/avatar/internacional.png">
-    <meta name="twitter:image:alt" content="LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
+    <meta name="twitter:image:alt" content="LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya">
     <meta name="twitter:site" content="@LANDAKTOTO">
     <meta name="twitter:creator" content="@LANDAKTOTO">
     <meta name="csrf-param" content="authenticity_token">
@@ -290,13 +290,13 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://seminariointernacional-cibs.far.fiocruz.br/">Envato Market</a>
+                    <a href="https://nuczu.edu.ua/ukr/">Envato Market</a>
                 </div>
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
                     <span class="off-canvas-left__site-title">
                         Web Themes &amp; Templates
                     </span>
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://seminariointernacional-cibs.far.fiocruz.br/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://nuczu.edu.ua/ukr/"></a>
                 </div>
                 <div class="sponsor-area" style="position:absolute; left:-9999px;">
 <a href="https://pictday.org/" rel="dofollow">https://pictday.org/</a><br>
@@ -304,32 +304,32 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://seminariointernacional-cibs.far.fiocruz.br/">
+                    <a class="off-canvas-left__site" href="hhttps://nuczu.edu.ua/ukr/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                    </a> <a class="off-canvas-left__site" href="https://nuczu.edu.ua/ukr/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                    </a> <a class="off-canvas-left__site" href="https://nuczu.edu.ua/ukr/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                    </a> <a class="off-canvas-left__site" href="https://nuczu.edu.ua/ukr/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                    </a> <a class="off-canvas-left__site" href="https://nuczu.edu.ua/ukr/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                    </a> <a class="off-canvas-left__site" href="https://nuczu.edu.ua/ukr/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -337,7 +337,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                     </a>
                 </div>
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://seminariointernacional-cibs.far.fiocruz.br/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://nuczu.edu.ua/ukr/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -350,403 +350,403 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                 </div>
                 <ul>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://nuczu.edu.ua/ukr/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://nuczu.edu.ua/ukr/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Real
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://nuczu.edu.ua/ukr/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Template Kits</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Template Kits</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link--empty" href="https://nuczu.edu.ua/ukr/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://nuczu.edu.ua/ukr/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Specialty Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://nuczu.edu.ua/ukr/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link--empty" href="https://nuczu.edu.ua/ukr/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://nuczu.edu.ua/ukr/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://nuczu.edu.ua/ukr/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Show all CMS</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Show all CMS</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://nuczu.edu.ua/ukr/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://nuczu.edu.ua/ukr/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Photoshop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link--empty" href="https://nuczu.edu.ua/ukr/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://nuczu.edu.ua/ukr/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Facebook Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Free Elementor Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Free Elementor Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Free
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://seminariointernacional-cibs.far.fiocruz.br/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://nuczu.edu.ua/ukr/">Tumblr</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://seminariointernacional-cibs.far.fiocruz.br/">Unlimited
+                                <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://nuczu.edu.ua/ukr/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -754,7 +754,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                     </li>
 
                     <li>
-                        <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://seminariointernacional-cibs.far.fiocruz.br/">Unlimited 
+                        <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://nuczu.edu.ua/ukr/">Unlimited 
                             ABOUTS</a>
                     </li>
 
@@ -766,18 +766,18 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                <a class="off-canvas-right__link--cart" href="https://nuczu.edu.ua/ukr/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://internatcional.landaktotobro.app/">
+                <a class="off-canvas-right__link" href="https://nuczu.landaktotobro.app/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://internatcional.landaktotobro.app/">
+                <a class="off-canvas-right__link" href="https://nuczu.landaktotobro.app/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -793,7 +793,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                    <a class="btn btn--square" href="https://nuczu.edu.ua/ukr/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 187.66 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.967 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
@@ -809,21 +809,21 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://nuczu.edu.ua/ukr/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://nuczu.edu.ua/ukr/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                    <a href="https://nuczu.edu.ua/ukr/">
                                         <img alt="LANDAKTOTO" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -838,20 +838,20 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                    <a href="https://nuczu.edu.ua/ukr/">
                                         <img height="50" alt="LANDAKTOTO LOGO" class="global-header__logo" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                                <a class="global-header-menu__link" href="https://nuczu.edu.ua/ukr/">
                                                     <span class="global-header-menu__link-text">
                                                         LANDAKTOTO
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                                <a class="global-header-menu__link" href="https://nuczu.edu.ua/ukr/">
                                                     <span class="global-header-menu__link-text">
                                                         LANDAK TOTO
                                                     </span>
@@ -860,7 +860,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://nuczu.edu.ua/ukr/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path d="M3.5 2A1.5 1.5 0 0 1 5 3.5 1.5 1.5 0 0 1 3.5 5 1.5 1.5 0 0 1 2 3.5 1.5 1.5 0 0 1 3.5 2zM8 2a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 5a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 2zM12.5 2A1.5 1.5 0 0 1 14 3.5 1.5 1.5 0 0 1 12.5 5 1.5 1.5 0 0 1 11 3.5 1.5 1.5 0 0 1 12.5 2zM3.5 6.5A1.5 1.5 0 0 1 5 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 2 8a1.5 1.5 0 0 1 1.5-1.5zM8 6.5A1.5 1.5 0 0 1 9.5 8 1.5 1.5 0 0 1 8 9.5 1.5 1.5 0 0 1 6.5 8 1.5 1.5 0 0 1 8 6.5zM12.5 6.5A1.5 1.5 0 0 1 14 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 11 8a1.5 1.5 0 0 1 1.5-1.5zM3.5 11A1.5 1.5 0 0 1 5 12.5 1.5 1.5 0 0 1 3.5 14 1.5 1.5 0 0 1 2 12.5 1.5 1.5 0 0 1 3.5 11zM8 11a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 14a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 11zM12.5 11a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z">
@@ -873,7 +873,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                                     </span>
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
-                                                <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                                <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://nuczu.edu.ua/ukr/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -888,7 +888,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                             </li>
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
-                                                <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                                <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://nuczu.edu.ua/ukr/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -907,25 +907,25 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://seminariointernacional-cibs.far.fiocruz.br/">SITUS TOTO</a>
+                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://nuczu.edu.ua/ukr/">SITUS TOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Code" href="https://seminariointernacional-cibs.far.fiocruz.br/">TOTO</a>
+                                            <a class="header-site-titles__link t-link" alt="Code" href="https://nuczu.edu.ua/ukr/">TOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Video" href="https://seminariointernacional-cibs.far.fiocruz.br/">TOGEL</a>
+                                            <a class="header-site-titles__link t-link" alt="Video" href="https://nuczu.edu.ua/ukr/">TOGEL</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Music" href="https://seminariointernacional-cibs.far.fiocruz.br/">SITUS TOGEL</a>
+                                            <a class="header-site-titles__link t-link" alt="Music" href="https://nuczu.edu.ua/ukr/">SITUS TOGEL</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Graphics" href="https://seminariointernacional-cibs.far.fiocruz.br/">TOTO MACAU</a>
+                                            <a class="header-site-titles__link t-link" alt="Graphics" href="https://nuczu.edu.ua/ukr/">TOTO MACAU</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="Photos" href="https://seminariointernacional-cibs.far.fiocruz.br/">LANDAK TOTO</a>
+                                            <a class="header-site-titles__link t-link" alt="Photos" href="https://nuczu.edu.ua/ukr/">LANDAK TOTO</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
-                                            <a class="header-site-titles__link t-link" alt="3D Files" href="https://seminariointernacional-cibs.far.fiocruz.br/">SITUS TERPERCAYA</a>
+                                            <a class="header-site-titles__link t-link" alt="3D Files" href="https://nuczu.edu.ua/ukr/">SITUS TERPERCAYA</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container" bis_skin_checked="1">
@@ -983,30 +983,30 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                                     <ul class="header-categories__links">
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://seminariointernacional-cibs.far.fiocruz.br/">TOGEL MACAU</a>
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://nuczu.edu.ua/ukr/">TOGEL MACAU</a>
                                         </li>
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://seminariointernacional-cibs.far.fiocruz.br/">TOGEL ONLINE</a>
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://nuczu.edu.ua/ukr/">TOGEL ONLINE</a>
                                         </li>
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://seminariointernacional-cibs.far.fiocruz.br/">LANDAKTOTO ALTERNATIF</a>
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://nuczu.edu.ua/ukr/">LANDAKTOTO ALTERNATIF</a>
                                         </li>
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link header-categories__main-link--empty" href="https://seminariointernacional-cibs.far.fiocruz.br/">LANDAKTOTO LOGIN</a>
+                                            <a class="header-categories__main-link header-categories__main-link--empty" href="https://nuczu.edu.ua/ukr/">LANDAKTOTO LOGIN</a>
                                         </li>
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://seminariointernacional-cibs.far.fiocruz.br/">TOTO ONLINE</a>
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://nuczu.edu.ua/ukr/">TOTO ONLINE</a>
                                             </a>
                                         </li>
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://seminariointernacional-cibs.far.fiocruz.br/">LANDAKTOTO TOGEL</a>
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://nuczu.edu.ua/ukr/">LANDAKTOTO TOGEL</a>
                                         </li>
                                         <li class="header-categories__links-item">
-                                            <a class="header-categories__main-link header-categories__main-link--empty" href="https://seminariointernacional-cibs.far.fiocruz.br/">LANDAKTOTO DAFTAR</a>
+                                            <a class="header-categories__main-link header-categories__main-link--empty" href="https://nuczu.edu.ua/ukr/">LANDAKTOTO DAFTAR</a>
                                         </li>
                                     </ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
-                                            <form id="search" data-view="searchField" action="https://seminariointernacional-cibs.far.fiocruz.br/" accept-charset="UTF-8" method="get">
+                                            <form id="search" data-view="searchField" action="https://nuczu.edu.ua/ukr/" accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
                                                         <input id="term" name="term" class="js-term search-field__input-field" type="search" placeholder="LANDAKTOTO">
@@ -1036,31 +1036,31 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
                               <a class="js-breadcrumb-category"
-                                    href="https://seminariointernacional-cibs.far.fiocruz.br/">LANDAK TOTO</a>
+                                    href="https://nuczu.edu.ua/ukr/">LANDAK TOTO</a>
 
 
-                                <a href="https://seminariointernacional-cibs.far.fiocruz.br/"
+                                <a href="https://nuczu.edu.ua/ukr/"
                                     class="js-breadcrumb-category">LANDAKTOTO</a>
 
                                 <a class="js-breadcrumb-category"
-                                    >LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya </a>
+                                    >LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya </a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
                                 <div class="item-header__top" bis_skin_checked="1">
                                     <div class="item-header__title" bis_skin_checked="1">
                                         <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone" style="color:#076ac7;">
-  LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya
+  LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya
 </h1>
 
 
                                         <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
-                                            LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya
+                                            LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya
                                         </h1>
                                     </div>
 
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://seminariointernacional-cibs.far.fiocruz.br/">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://nuczu.edu.ua/ukr/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1071,7 +1071,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        Seller By <a rel="author" class="js-by-author" href="https://seminariointernacional-cibs.far.fiocruz.br/">LANDAKTOTO</a>
+                                        Seller By <a rel="author" class="js-by-author" href="https://nuczu.edu.ua/ukr/">LANDAKTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1102,9 +1102,9 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://seminariointernacional-cibs.far.fiocruz.br/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://nuczu.edu.ua/ukr/">Item Details</a>
                                     </li>
-                                    <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://seminariointernacional-cibs.far.fiocruz.br/"><span>Reviews</span><span>
+                                    <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://nuczu.edu.ua/ukr/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1122,8 +1122,8 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
                                                     </div>
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">37.848</span></a></li>
-                                    <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://seminariointernacional-cibs.far.fiocruz.br/"><span>Comments</span><span class="item-navigation-reviews-comments">27.418</span></a></li>
-                                    <li><a class="js-item-navigation-support t-link -decoration-none" href="https://seminariointernacional-cibs.far.fiocruz.br/">Support</a>
+                                    <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://nuczu.edu.ua/ukr/"><span>Comments</span><span class="item-navigation-reviews-comments">27.418</span></a></li>
+                                    <li><a class="js-item-navigation-support t-link -decoration-none" href="https://nuczu.edu.ua/ukr/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1167,9 +1167,9 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 
                             <div class="page-tabs" bis_skin_checked="1">
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
-                                    <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="9678002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://seminariointernacional-cibs.far.fiocruz.br/"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
+                                    <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="9678002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://nuczu.edu.ua/ukr/"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
-                                    <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="9678002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://seminariointernacional-cibs.far.fiocruz.br/"><span class="item-bookmarking__control--label">Add to Collection</span></a>
+                                    <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="9678002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://nuczu.edu.ua/ukr/"><span class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -1183,7 +1183,7 @@ dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',cust
 
                         <div class="grid-container" bis_skin_checked="1">
                             <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
-window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"user","ecommerce":{"currency":"USD","value":37.0,"items":[{"affiliation":"themeforest","item_id":9678002,"item_name":"LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya","item_brand":"tokopress","item_category":"wordpress","item_category2":"ecommerce","item_category3":"woocommerce","price":37.0,"quantity":1,"item_add_on":"bundle_6month","item_variant":"regular"}]}});
+window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"user","ecommerce":{"currency":"USD","value":37.0,"items":[{"affiliation":"themeforest","item_id":9678002,"item_name":"LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya","item_brand":"tokopress","item_category":"wordpress","item_category2":"ecommerce","item_category3":"woocommerce","price":37.0,"quantity":1,"item_add_on":"bundle_6month","item_variant":"regular"}]}});
 //]]></script></ul></div>
 
 
@@ -1192,8 +1192,8 @@ window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"
 
 
 
-                                            <a target="_blank" href="https://internatcional.landaktotobro.app/" class="efek-goyang-kilau">
-  <img alt="LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya" 
+                                            <a target="_blank" href="https://nuczu.landaktotobro.app/" class="efek-goyang-kilau">
+  <img alt="LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya" 
        width="750" height="300" 
        srcset="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" 
        sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" 
@@ -1453,8 +1453,8 @@ window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"
 
 <div class="item-preview__actions">
     <div class="n-columns-2">
-        <a href="https://internatcional.landaktotobro.app/" rel="nofollow noreferrer" class="login">LOGIN</a>
-        <a href="https://internatcional.landaktotobro.app/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+        <a href="https://nuczu.landaktotobro.app/" rel="nofollow noreferrer" class="login">LOGIN</a>
+        <a href="https://nuczu.landaktotobro.app/" rel="nofollow noreferrer" class="register">DAFTAR</a>
     </div>
 </div>
 
@@ -1462,8 +1462,8 @@ window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"
     
 <section class="hero">
   <div class="hero-text">
-    <h1>LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya</h1>
-    <a href="https://internatcional.landaktotobro.app/" class="btn">TOTO MACAU</a>
+    <h1>LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya</h1>
+    <a href="https://nuczu.landaktotobro.app/" class="btn">TOTO MACAU</a>
 
   </div>
   <div class="hero-img">
@@ -1726,11 +1726,11 @@ window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"
             <div class="neon-glitch" aria-hidden="true"></div>
 
             <article class="neon-content">
-                <h1>LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya</h1>
+                <h1>LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya</h1>
                 <div class="neon-divider"></div>
 
                 <p>
-<a href="https://internatcional.landaktotobro.app/" style="color:#447094; text-decoration:none;"><strong>LANDAKTOTO</strong></a> menghadirkan pembaruan tampilan yang membuat berbagai informasi Toto Macau tersaji dengan lebih menarik dan mudah dinikmati. Perubahan ini membantu pengunjung menjelajahi setiap bagian dengan lebih leluasa sambil tetap menemukan informasi yang mereka cari dalam satu tujuan yang lengkap.
+<a href="https://nuczu.landaktotobro.app/" style="color:#447094; text-decoration:none;"><strong>LANDAKTOTO</strong></a> menghadirkan pembaruan tampilan yang membuat berbagai informasi Toto Macau tersaji dengan lebih menarik dan mudah dinikmati. Perubahan ini membantu pengunjung menjelajahi setiap bagian dengan lebih leluasa sambil tetap menemukan informasi yang mereka cari dalam satu tujuan yang lengkap.
 </p>
 
 
@@ -2387,7 +2387,7 @@ window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"
   text-shadow:0 0 12px #ffe600cc;
   margin-bottom:15px;
 ">
-LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya
+LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya
 </h2>
 
 <p>
@@ -2743,7 +2743,7 @@ Melalui optimasi website yang berkelanjutan, LANDAKTOTO berkomitmen menghadirkan
 
 <details>
     <summary>
-        <span class="q"><span class="badge">Q</span> Apa fokus utama tema LANDAKTOTO : Internacional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya?</span>
+        <span class="q"><span class="badge">Q</span> Apa fokus utama tema LANDAKTOTO : Internasional Optimasi Website Togel Toto Macau & Situs Toto Togel Online Terpercaya?</span>
         <span class="chev" aria-hidden="true"></span>
     </summary>
     <div class="ans">
@@ -3179,7 +3179,7 @@ window.datadog_attributes['pageType']='item:details'})()
         </div>
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
-                <a class="t-link -decoration-reversed" target="_blank" href="https://seminariointernacional-cibs.far.fiocruz.br/">View license details</a>
+                <a class="t-link -decoration-reversed" target="_blank" href="https://nuczu.edu.ua/ukr/">View license details</a>
             </p>
         </div>
         
@@ -3204,23 +3204,23 @@ window.datadog_attributes['pageType']='item:details'})()
 <div class="daftarku-fixed-footer">
     </div>
     <div class="daftarku-fixed-footer">
-    <a href="https://internatcional.landaktotobro.app/" rel="nofollow noopener" target="_blank">
+    <a href="https://nuczu.landaktotobro.app/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://desa-kembang.pages.dev/avatar/internacional.png" alt="Promo">
         Promo
     </a>
-    <a href="https://internatcional.landaktotobro.app/" rel="nofollow noopener" target="_blank">
+    <a href="https://nuczu.landaktotobro.app/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://desa-kembang.pages.dev/avatar/internacional.png" alt="Login">
         Login
     </a>
-    <a href="https://internatcional.landaktotobro.app/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://nuczu.landaktotobro.app/" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://desa-kembang.pages.dev/avatar/internacional.png" alt="Daftar">
         Daftar
     </a>
-    <a href="https://internatcional.landaktotobro.app/" rel="nofollow noopener" target="_blank">
+    <a href="https://nuczu.landaktotobro.app/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://desa-kembang.pages.dev/avatar/internacional.png" alt="Link">
         Alternatif
     </a>    
-    <a href="https://internatcional.landaktotobro.app/" rel="nofollow noopener" target="_blank"
+    <a href="https://nuczu.landaktotobro.app/" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://desa-kembang.pages.dev/avatar/internacional.png" alt="Live Chat">
         Live Chat
